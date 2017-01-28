@@ -1,6 +1,14 @@
 # dl-style-transfer in Tensorflow
 Style transfer of images to your own 
+Checkpoint files available in checkpoints folder
+Sample images available in images folder
 
+Installation for OSX and Linux:
+
+conda create -n style-transfer python=2.7.9
+source activate style-transfer
+conda install -c conda-forge tensorflow=0.11.0
+conda install scipy pillow
 
 Adapted from Logan Engstrom's project
 
@@ -10,7 +18,7 @@ https://github.com/lengstrom/fast-style-transfer
 
 
 #####################################################################
-Logan's readme
+
 
 
 ## Fast Style Transfer in [TensorFlow](https://github.com/tensorflow/tensorflow)
