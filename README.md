@@ -10,6 +10,13 @@ source activate style-transfer <br>
 conda install -c conda-forge tensorflow=0.11.0 <br>
 conda install scipy pillow <br>
 
+Sample Run command:
+
+python evaluate.py --checkpoint ./checkpoints/la-muse.ckpt --in-path ./images/flower-101026_1920.jpg --out-path ./output_image.jpg
+
+
+Images from Pixabay: https://pixabay.com/
+
 Adapted from Logan Engstrom's project
 
 
