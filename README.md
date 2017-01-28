@@ -5,10 +5,10 @@ Sample images available in images folder
 
 Installation for OSX and Linux:
 
-conda create -n style-transfer python=2.7.9
-source activate style-transfer
-conda install -c conda-forge tensorflow=0.11.0
-conda install scipy pillow
+conda create -n style-transfer python=2.7.9 <br>
+source activate style-transfer <br>
+conda install -c conda-forge tensorflow=0.11.0 <br>
+conda install scipy pillow <br>
 
 Adapted from Logan Engstrom's project
 
