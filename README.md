@@ -1,3 +1,18 @@
+# dl-style-transfer in Tensorflow
+Style transfer of images to your own 
+
+
+Adapted from Logan Engstrom's project
+
+
+
+https://github.com/lengstrom/fast-style-transfer
+
+
+#####################################################################
+Logan's readme
+
+
 ## Fast Style Transfer in [TensorFlow](https://github.com/tensorflow/tensorflow)
 
 Add styles from famous paintings to any photo in a fraction of a second! [You can even style videos!](#video-stylization)
@@ -102,7 +117,4 @@ You will need the following to run the above:
   - The project also borrowed some code from Anish's [Neural Style](https://github.com/anishathalye/neural-style/)
 - Some readme/docs formatting was borrowed from Justin Johnson's [Fast Neural Style](https://github.com/jcjohnson/fast-neural-style)
 - The image of the Stata Center at the very beginning of the README was taken by [Juan Paulo](https://juanpaulo.me/)
-
-### License
-Copyright (c) 2016 Logan Engstrom. Contact me for commercial use (email: engstrom at my university's domain dot edu). Free for research/noncommercial use, as long as proper attribution is given and this copyright notice is retained.
 
